@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "subtitles": {
+      "commandName": "Project",
+      "commandLineArgs": "\"c:\\Users\\User\\Downloads\\The Village arabic.srt\" sync 5 33 00:10:00,000"
+    }
+  }
+}
